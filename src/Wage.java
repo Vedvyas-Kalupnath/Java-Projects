@@ -19,9 +19,9 @@ public class Wage {
 		/*
 		 * Write a simple Java program to calculate and display salary of an employee
 		 * based on the following: 
-		 * • ask user to input number of hours worked 
-		 * • salary =hours worked * rate of pay
-		 * • if the employee has worked more than 40 hours then the additional hours are worth 50% more than his normal rate of pay
+		 * â€¢ ask user to input number of hours worked 
+		 * â€¢ salary =hours worked * rate of pay
+		 * â€¢ if the employee has worked more than 40 hours then the additional hours are worth 50% more than his normal rate of pay
 		 */
 		
 		
@@ -51,7 +51,8 @@ public class Wage {
 			
 			salary= (overtime + normalSal);
 			
-			System.out.println("Your overtime is: Rs" + overtime + " and your salary is:Rs " + salary);
+			System.out.println("Your overtime is: Rs" + overtime )
+				Sytem.out.println("Your salary is:" salary)
 		
 		
 		}
